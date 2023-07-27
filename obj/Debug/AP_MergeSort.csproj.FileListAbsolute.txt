@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_MergeSort\AP_MergeSort\bin\Debug\AP_MergeSort.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_MergeSort\AP_MergeSort\bin\Debug\AP_MergeSort.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_MergeSort\AP_MergeSort\bin\Debug\AP_MergeSort.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_MergeSort\AP_MergeSort\obj\Debug\AP_MergeSort.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_MergeSort\AP_MergeSort\obj\Debug\AP_MergeSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_MergeSort\AP_MergeSort\obj\Debug\AP_MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_MergeSort\AP_MergeSort\obj\Debug\AP_MergeSort.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_MergeSort\AP_MergeSort\obj\Debug\AP_MergeSort.pdb
